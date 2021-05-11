@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <USERS_TB ID="1" LOGIN="john" EMAIL="john@bla.com"
+              PASSWORD="123456" FIRST_NAME="John" LAST_NAME="Miller"
+              BIRTH_DATE="1987-12-03" ROLE_ID="1"/>
+    <USERS_TB ID="2" LOGIN="katerine" EMAIL="kate@bla.com"
+              PASSWORD="123456" FIRST_NAME="kate" LAST_NAME="blue"
+              BIRTH_DATE="2015-12-02" ROLE_ID="2"/>
+    <USERS_TB ID="3" LOGIN="jey-jet" EMAIL="jt@bla.com"
+              PASSWORD="123456" FIRST_NAME="jennie" LAST_NAME="morgan"
+              BIRTH_DATE="2001-02-11" ROLE_ID="1"/>
+    <USERS_TB ID="4" LOGIN="martin" EMAIL="martin@bla.com"
+              PASSWORD="123456" FIRST_NAME="martin" LAST_NAME="black"
+              BIRTH_DATE="1975-05-19" ROLE_ID="2"/>
+</dataset>
